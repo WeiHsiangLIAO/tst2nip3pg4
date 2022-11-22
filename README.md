@@ -122,7 +122,7 @@
 	</div>
 	<div class="tile">
 		<h3>Automatic Music Mixing</h3>
-		<a href="X"><img src="./assets/stub.png"></a>
+		<a href="X"><img src="./assets/automix.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2208.11428">[arXiv]</a>
 			<a href="https://github.com/sony/fxnorm-automix">[code]</a>
@@ -135,7 +135,7 @@
 <div class="trow">
 	<div class="tile">
 		<h3>Mixing Style Transfer</h3>
-		<a href="X"><img src="./assets/stub.png"></a>
+		<a href="X"><img src="./assets/style_transfer.png"></a>
 		<h5>
 			<a href="https://arxiv.org/abs/2211.02247">[arXiv]</a>
 			<a href="https://github.com/jhtonyKoo/music_mixing_style_transfer">[code]</a>
